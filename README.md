@@ -1,4 +1,4 @@
-# hello-orld
+# hello-world
 
 Hi Humans!
 
